@@ -110,7 +110,7 @@ We recommend creating seed data for testing:
 ## Submission Timeline
 - **Start**: Read and complete instructions to the project choice. 
 - **Duration**: Exactly 24 hours
-- **End**: Push final code to your own repo, and send the link to kelvingbolo98@gmail.com 
+- **End**: Push final code to your own repo, and send the link or video to kelvingbolo98@gmail.com / +233596157150
 - **No extensions or late submissions accepted**
 
 
