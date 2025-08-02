@@ -32,7 +32,7 @@ We recommend creating seed data for testing:
 
 ### Mandatory Stack
 - **Frontend**: React, Vue.js, or Angular
-- **Backend**: Node.js, Python (Django/Flask), or PHP (Laravel)
+- **Backend**: Node.js, Python (Django/Flask/FastApi)
 - **Database**: MySQL, PostgreSQL, or MongoDB
 - **Authentication**: JWT or session-based
 
@@ -108,7 +108,7 @@ We recommend creating seed data for testing:
 6. Bonus features (if time permits)
 
 ## Submission Timeline
-- **Start**: Fork this repository when ready
+- **Start**: Read and complete instructions to the project choice. 
 - **Duration**: Exactly 24 hours
 - **End**: Push final code to your own repo, and send the link to kelvingbolo98@gmail.com 
 - **No extensions or late submissions accepted**
