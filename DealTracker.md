@@ -1,6 +1,6 @@
 ## Challenge B: Venture Capital Platform - "DealTracker"
 
-### Problem Statement
+### Main Task
 Create a simplified deal management platform where VC firms can track startup pitches and manage their investment pipeline.
 
 ### Core Requirements
