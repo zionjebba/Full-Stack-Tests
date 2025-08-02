@@ -1,7 +1,7 @@
 # Ideation Axis - 24-Hour Full-Stack Developer Challenge
 
 ## Overview
-Welcome to the Ideation Axis Full-Stack Developer Assessment. You have **exactly 24 hours** from the time you fork this repository to complete ONE of the two challenges below. This test evaluates your ability to build functional web applications efficiently.
+Welcome to the Ideation Axis Full-Stack Developer Assessment. You have **exactly 24 hours** from the time you receive email to access this repository to complete ONE of the two challenges below. This test evaluates your ability to build functional web applications efficiently.
 
 ## Challenge Selection
 **Choose ONE of the following challenges to complete:**
