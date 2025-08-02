@@ -1,5 +1,5 @@
 Challenge A: AgriTech Marketplace - "FarmDirect"
-Problem Statement
+
 Build a marketplace where farmers can list their products and customers can browse and purchase fresh produce directly from farms.
 Core Requirements
 1. User Authentication (Required)
