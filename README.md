@@ -110,8 +110,7 @@ We recommend creating seed data for testing:
 ## Submission Timeline
 - **Start**: Read and complete instructions to the project choice. 
 - **Duration**: Exactly 24 hours
-- **End**: Push final code to your own repo, and send any deliverables to kelvingbolo@ideationaxis.com
- / +233596157150
+- **End**: Push final code to your own repo, and send any deliverables to https://forms.office.com/r/WqxJ7r9FDW
 - **No extensions or late submissions accepted**
 
 
